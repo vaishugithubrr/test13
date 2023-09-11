@@ -1,0 +1,45 @@
+.vertical ul{
+    list-style-type: none;
+    width: 20%;
+    line-height: 50px;
+}
+.vertical li a{
+    display: block;
+    color: blue;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    text-decoration: none;
+    background-color: skyblue ;
+}
+.vertical li a.task{
+    background-color: orange;
+    color: #fff;
+}
+#i1{
+    text-indent: 60px;
+}
+body{
+    text-indent: 20px;
+}
+.horizontal ul{
+    list-style-type: none;
+    line-height: 50px;
+}
+.horizontal li a{
+    display: block;
+    float: left;
+    color: blue;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    text-decoration: none;
+    background-color: rgb(197, 204, 210);
+    width: 10%;
+    border-right: 1px solid blue;
+}
+.horizontal li a.task1{
+    background-color: dimgray;
+    color: #fff;
+}
+#i2{
+    text-indent: 250px;
+}

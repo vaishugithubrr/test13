@@ -1,0 +1,55 @@
+body{
+    background-color: yellow;
+    padding-left: 20px;
+    font-family: "Times New Roman";    
+}
+h1{
+    margin-left: 200px;
+    font-family: Arial;
+    color: purple;
+}
+p{
+    margin-left: 200px;
+    color: purple;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+address{
+    margin-left: 200px;
+    color: purple;
+    border-top: thin dotted;
+    padding-top: 15px;
+    font-size: 20px;
+}
+ul.c1{
+    list-style-type: none;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    width: 150px;
+    line-height: 40px;
+    text-indent: 20px;
+}
+ul.c1 li{
+    background: #fff;
+    margin: 10px 0;
+    border-right: 20px solid black;
+    padding: 0;
+}
+#home{
+    color: purple;
+    text-decoration: none;
+}
+#musing{
+    color: blue;
+    text-decoration: none;
+}
+#town{
+    color: blue;
+    text-decoration: none;
+}
+#link{
+    color: blue;
+    text-decoration: none;
+}
